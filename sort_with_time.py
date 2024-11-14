@@ -107,4 +107,3 @@ if __name__ == "__main__":
     end_time = time.time()  # Запоминаем время окончания
     print("Отсортированный массив:", sorted_data)
     print("Время выполнения Сортировка вставками: {:.6f} секунд".format(end_time - start_time))
-
